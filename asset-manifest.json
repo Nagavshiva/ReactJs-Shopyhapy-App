@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactJs-Shopyhapy-App/static/css/main.5d452294.css",
-    "main.js": "/ReactJs-Shopyhapy-App/static/js/main.a2df604b.js",
+    "main.js": "/ReactJs-Shopyhapy-App/static/js/main.6c3fc81c.js",
     "static/js/787.60e76359.chunk.js": "/ReactJs-Shopyhapy-App/static/js/787.60e76359.chunk.js",
     "index.html": "/ReactJs-Shopyhapy-App/index.html",
     "main.5d452294.css.map": "/ReactJs-Shopyhapy-App/static/css/main.5d452294.css.map",
-    "main.a2df604b.js.map": "/ReactJs-Shopyhapy-App/static/js/main.a2df604b.js.map",
+    "main.6c3fc81c.js.map": "/ReactJs-Shopyhapy-App/static/js/main.6c3fc81c.js.map",
     "787.60e76359.chunk.js.map": "/ReactJs-Shopyhapy-App/static/js/787.60e76359.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d452294.css",
-    "static/js/main.a2df604b.js"
+    "static/js/main.6c3fc81c.js"
   ]
 }
